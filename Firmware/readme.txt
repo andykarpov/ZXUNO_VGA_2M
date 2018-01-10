@@ -1,3 +1,3 @@
-Rename file to firmware.zx1 and put in SD root. Select in bios menu update option "Update bios" then select SD option.
-
-Renombrar el fichero a firmware.zx1 y colocarlo en el directorio raiz de la SD, seleccionar en la bios men� update opci�n update bios y opci�n SD.
+Переименуйте файл нужной Вам версии в firmware.zx1 и положите в корень SD-карточки. 
+Для обновления BIOS выберите в его меню пункт "Update BIOS" и дождитесь завершения обновления. 
+Это может занять некоторое время.
